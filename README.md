@@ -1,2 +1,5 @@
 # hpa-classification
 Code for my B.Tech project on Human Protein Atlas Classification.
+
+## Background
+At the cellular level, the function of proteins is to catalyze, conduct and control most processes at specific times and locations. Subcellular localization of a protein helps to define the protein function as different cell structures offer different physiological conditions. If a protein is mis-localized then it leads to cellular dysfunction and disease. Knowledge of the spatial distribution of proteins at a subcellular level is thus essential for understanding protein function, interactions and cellular functions. Protein Localization is mainly done through Immunofluorescence microscopic imaging which stains the proteins of interest with antibodies and visualizes the proteins by taking a microscopic image. Currently there only exist a few Protein Localization automation methods which can compete with the Localization Labelling done by experts. I have developed a deep learning model that predicts the localization labels from the given protein image.
